@@ -2,10 +2,10 @@
 Quibble is a marks entering software which automates the process of Internal Assessment Tests mapping with course outcome mapping and various marks calculations. It makes use of a database to store all details required, allowing the user to pickup their work from where they left-off. It does various sanity checks and validations to avoid potential mistakes. The software automatically generates attainment for each Course outcome dependent on given criteria.
 
 ## Technologies used
-Electron
-Material Design Lite
-Firebase
-Web Technologies (HTML, CSS, JavaScript) 
+-Electron<br>
+-Material Design Lite<br>
+-Firebase<br>
+-Web Technologies (HTML, CSS, JavaScript) <br>
 
 ## Minimum Requirements
 Processor: 1 gigahertz (GHz) or faster processor
