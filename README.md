@@ -45,8 +45,8 @@ Quibble is a marks entering software which automates the process of Internal Ass
 - This file can directly be parsed by Quibble to get the required student info and store it in the database so that teachers won’t have to repeatedly add it.<br>
 
 ### Read previous marks from excel
--Before Quibble, the college manually did all the work and stored all data in an excel file.
--Quibble can read these old excel files and automatically store all required data in the database.
+- Before Quibble, the college manually did all the work and stored all data in an excel file.<br>
+- Quibble can read these old excel files and automatically store all required data in the database.<br>
 
 ### Automatic computations and color Coding
 - Following important calculations are automated by Quibble: + Top 5 scorers + Total marks obtained and attempted per CO for each student + Total marks scored by each student + Attainment value for each CO for every student + Total attainment for each CO Quibble also automatically color-codes: + Attainment of each CO for every student + Total attainment of each CO.<br>
